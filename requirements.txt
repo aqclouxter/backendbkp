@@ -3,7 +3,7 @@ Click==7.0
 Flask==1.0.2
 Flask-RESTful==0.3.7
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 mysql-connector-python==8.0.15
 protobuf==3.7.0
@@ -27,7 +27,7 @@ httplib2==0.12.1
 idna==2.8
 itsdangerous==1.1.0
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 jsonify==0.5
 MarkupSafe==1.1.1
 mysql-connector-python==8.0.15
